@@ -11,18 +11,15 @@
 
 .reviews {
     color: darkblue;
-    font-weight: bold;
     margin: 10px auto 20px;
-
-    font-family: 'Srisakdi', cursive !important;
+    font-family: 'Playball', cursive !important;
     color: darkblue;
 }
 
 .notes {
     color: #999;
     font-size: 12px;
-
-    font-family: 'Srisakdi', cursive !important;
+    font-family: 'Playball', cursive !important;
     color: darkblue;
 }
 
@@ -56,7 +53,7 @@
 
 .media-comment {
     margin-bottom: 20px;
-    font-family: 'Srisakdi', cursive !important;
+    font-family: 'Playball', cursive !important;
     color: darkblue;
 }
 
@@ -69,7 +66,6 @@
 }
 
 .btn-circle {
-    font-weight: bold;
     font-size: 12px;
     padding: 2px 6px;
     border-radius: 20px;

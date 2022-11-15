@@ -20,9 +20,9 @@ function printComment() {
                 <li class="media">
                     <div class="media-body">
                         <div class="well well-lg" style="padding: 10px 15px">`
-        screen += ` <h3 class="media-heading text-uppercase reviews">${item.username}: </h3>`
-        screen += `<h4 class="media-comment" style="font-size: 135%; font-weight: bold">
-                                "${item.comment}"
+        screen += ` <h3 class="media-heading  reviews">${item.username}: </h3>`
+        screen += `<h4 class="media-comment" style="font-size: 135%">
+                                - ${item.comment}
                             </h4>
                         </div>
                     </div>
